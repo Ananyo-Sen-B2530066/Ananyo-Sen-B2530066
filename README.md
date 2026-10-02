@@ -1,4 +1,8 @@
+![Profile Banner](./banner.png)
+
+
 ## Hi there 👋
+
 
 <!--
 **Ananyo-Sen-B2530066/Ananyo-Sen-B2530066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
